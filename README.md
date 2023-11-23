@@ -1,9 +1,7 @@
-# QVid
-
 ![file txt](https://github.com/tuhinpal/qvid/assets/51857187/17848901-6e67-439c-b892-d97faea49dc2)
 
 
-## File to Video Encoder & Decoder - [View Demo](https://qvid.thetuhin.com/)
+## QVid - File to Video Encoder & Decoder - [View Demo](https://qvid.thetuhin.com/)
 
 
 
