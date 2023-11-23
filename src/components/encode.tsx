@@ -11,7 +11,7 @@ export default function EncodeVid() {
   const { process, reset, setError, setSuccess, setWorking } = useProcess({
     encode: {
       status: "pending",
-      child: "Convert into 2 bits",
+      child: "Convert into 2 bits binary",
     },
     paintInCanvas: {
       status: "pending",
