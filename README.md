@@ -22,7 +22,7 @@
 
 ### Metadata:
 
-Each frame contains the 4 colors used in the frame. This way, theoretically, even if the video gets color-graded, the file can still be decoded.
+Each frame contains the 4 colors used in the frame in sequence in first position. This way, theoretically, even if the video gets color-graded, the file can still be decoded by comparing the initial colors of each frame.
 
 ### Separator Color:
 
