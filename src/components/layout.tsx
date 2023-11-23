@@ -60,7 +60,7 @@ export function Box({
   description: string;
 }) {
   return (
-    <div className="px-3 w-full md:w-1/2 max-w-2xl">
+    <div className="px-3 w-full md:w-1/2 max-w-xl">
       <div className="flex bg-zinc-50 shadow-sm border rounded-2xl p-6 h-full">
         <div className="flex flex-col gap-2">
           <h2 className="text-2xl font-bold">{title}</h2>
