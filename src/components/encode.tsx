@@ -79,7 +79,7 @@ export default function EncodeVid() {
         }}
         Icon={ArrowUpOnSquareIcon}
       >
-        Select file to encode
+        Select file ({">"}200KB)
       </Button>
 
       <Process data={process} />

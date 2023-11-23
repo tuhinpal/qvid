@@ -18,7 +18,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         />
 
         <h1 className="text-3xl font-bold text-center">
-          File to Video Encoder & Decoder
+          File to Video Encoder & Decoder (Browser side)
         </h1>
       </div>
 
