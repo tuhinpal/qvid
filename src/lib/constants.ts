@@ -7,7 +7,7 @@ export const BIT_MAP_LETTERTOBIT = {
 
 export const SPLITTER_LETTER = "e";
 
-// 17 unique contrast colors except white and black
+// 5 unique contrast colors except white and black
 export const COLOR_MAP = {
   a: "#FF0000", // Red
   b: "#00FF00", // Green
